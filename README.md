@@ -22,4 +22,14 @@
 ##CReacion del nuevo contenedor y muestra de la persistencia
 ![image.png](/segundo_punto/MuestraPersistencia.png)
 
+#Tercer punto
+##EJecucion del contenedor
+![image.png](/punto3/image.png)
+##Muestra del codigo corriendo
+![image.png](/punto3/image%20copy.png)
+##Actualizacion del index
+![image.png](/punto3/image%20copy%203.png)
+##Muestra del codigo corriendo actualizado
+![image.png](/punto3/image%20copy%204.png)
+
 
