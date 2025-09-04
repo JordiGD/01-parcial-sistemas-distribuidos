@@ -33,3 +33,12 @@
 ![image.png](/punto3/image%20copy%204.png)
 
 
+#Quinto punto
+##Creacion dockerfile
+![image.png](/punto5/creacionDockerfile.png)
+##Creacion imagen
+![image.png](/punto5/construccionImagen.png)
+##Ejecucion del contenedor y logs
+![image.png](/punto5/creacionCOntenedor_Logs.png)
+
+
